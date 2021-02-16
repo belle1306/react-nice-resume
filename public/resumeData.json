@@ -28,7 +28,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My skills as developer, researcher, financial editor",
     "education":[
 
       {
@@ -87,7 +87,7 @@
       },
       {
         "name":"VueJs",
-        "level":"90%"
+        "level":"80%"
       },
       {
         "name":"ReactJs",
@@ -99,15 +99,25 @@
       },
       {
         "name":"MYSQL",
-        "level":"90%"
+        "level":"85%"
       },
       {
         "name":"WEBAPI",
-        "level":"90%"
+        "level":"85%"
       },
       {
         "name":"NODEJS",
         "level":"90%"
+      },
+
+      {
+        "name":"BLOOMBERG TERMINAL",
+        "level":"100%"
+      },
+
+      {
+        "name":"IBM SPSS",
+        "level":"80%"
       }
     ]
   },

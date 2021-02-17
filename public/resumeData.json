@@ -124,21 +124,29 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Equitable",
+        "title":"Equitable, Consultancy platform for edutech built with wordpress",
         "description":"Consultancy platform for edutech built with wordpress",
-        "image":"",
+        
         "url":"https://equi-t-able.com/"
       },
       {
-        "title":"DTLJ Education",
+        "title":"DTLJ Education,Education trust webpage built with wordpress",
         "description":"Education trust webpage built with wordpress",
-        "image":"",
+        
         "url":"https://dtlj.org/"
       },
+
       {
-        "title":"Infinity",
+        "title":"Dsiswa Connect, Making searching of scholarship and scholars easier in Malaysia(built with php)",
         "description":"Collaboration App as CODEOP student",
-        "image":"",
+        
+        "url":"https://www.dsiswaconnect.com/"
+      },
+
+      {
+        "title":"Infinity, Collaboration App as CODEOP student using 3js",
+        "description":"Collaboration App as CODEOP student",
+        
         "url":"https://blissful-knuth-2dceb7.netlify.app/"
       }
       

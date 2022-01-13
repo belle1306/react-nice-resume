@@ -1,8 +1,6 @@
 # React Nice Resume     
 
-### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
-
-![img](https://github.com/nordicgiant2/react-nice-resume/blob/master/public/images/img.jpg?raw=true)
+### DEMO is [here](https://react-nice-resume-5cdeo.ondigitalocean.app)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
